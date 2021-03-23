@@ -1,0 +1,7 @@
+.userBlock {
+    width: 300px;
+    border: 2px solid aquamarine;
+    float: left;
+    padding: 20px;
+    text-align: center;
+}

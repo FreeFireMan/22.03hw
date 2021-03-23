@@ -1,0 +1,11 @@
+.header {
+    height: 100px;
+    background: aquamarine;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo {
+    width: 90px;
+    height: 90px;
+}

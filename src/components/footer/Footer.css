@@ -1,0 +1,17 @@
+.footer {
+    height: 100px;
+    background: aquamarine;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.footerNetworks {
+    display: flex;
+}
+.footerNetworks > a {
+    padding: 5px;
+}
+.networks-logo {
+    width: 30px;
+    height: 30px;
+}

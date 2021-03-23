@@ -1,0 +1,19 @@
+.blockProducts {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px 30px 30px 400px;
+    justify-content: space-between;
+}
+.product {
+    width: 400px;
+    padding-bottom: 15px;
+}
+.product > img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+}
+.product > h4 {
+    text-align: center;
+}
